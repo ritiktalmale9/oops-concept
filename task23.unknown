@@ -1,0 +1,4 @@
+def myfan (abcd):
+    print('wlcome'+abcd)
+
+myfan ("abc")

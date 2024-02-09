@@ -1,0 +1,12 @@
+class
+object
+inheeritance
+polymorphics
+
+Excaption handling
+ try:
+  print(x)
+except:
+  print("somethiung went wrong")
+else:
+  print("efghijk")

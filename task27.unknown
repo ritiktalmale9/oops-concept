@@ -1,0 +1,2 @@
+def my_function(23)
+ print("Hello from a function")

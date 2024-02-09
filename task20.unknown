@@ -1,0 +1,4 @@
+def person (komal):
+    print(komal)
+
+person ('komal')

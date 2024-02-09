@@ -1,0 +1,4 @@
+def city (a,b="pune"):
+    print (a+b)
+
+city ("nagar")
